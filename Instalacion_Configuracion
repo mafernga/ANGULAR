@@ -20,6 +20,8 @@ git config --global user.email "Tu correo"
 ```
 
 * [Node](https://nodejs.org/es/)
+verificar que Node quedo bien instalad,  
+Abrir terminal y escribir node --version
 
 
 ## Extensiones de VSCode
@@ -29,6 +31,7 @@ git config --global user.email "Tu correo"
 
 [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 ```
+Entrar a vscode a file - preferences - settings - extensions - Edit settings.json , copiar el siguiente codigo y guardar 
 "bracket-pair-colorizer-2.colors": [
     "#fafafa",
     "#9F51B6",
@@ -54,6 +57,14 @@ git config --global user.email "Tu correo"
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 
 * [TypeScript importer](https://marketplace.visualstudio.com/items?itemName=pmneo.tsimporter)
+
+
+### Instalacion de ANGULAR
+
+1. Entrar a https://cli.angular.io/ y copiar el comando de instalacion, debe ser este npm install -g @angular/cli
+2. Abrir CMD como administrador y copiar la linea anterior y ejecutar
+3 Verificar que este correctamente instalado ejecutando esta linea ng --version
+
 
 
 
